@@ -1,0 +1,45 @@
+.banner {
+    display: flex;
+    background-image: r;
+}
+
+.banner div {
+    margin: 2em;
+}
+.content{
+    padding: 2em;
+}
+
+span {
+    color: blueviolet;
+}
+
+p, li {
+    font-size: 1.3em;
+}
+
+.info {
+    padding-top: 7em;
+}
+
+.foto img {
+    border-radius: 50%;
+}
+
+.element-carousel {
+    width: 100%;
+    height: 120vh;
+    background-size: cover;
+}
+
+.img {
+    background-size: cover;
+    width: 33%;
+    height: 13em;
+    margin: 1em;
+}
+
+.linha {
+    width: 100%;
+    display: flex;
+}
